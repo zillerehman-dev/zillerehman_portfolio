@@ -96,7 +96,7 @@ export const skillsData = [
   Nginx
   Numpy
   OpenCV
-  Pytorch
+  PyTorch
   Selenium
   Strapi
   Tensorflow
