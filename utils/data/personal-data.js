@@ -1,0 +1,37 @@
+export const personalData = {
+  name: "Zille Rehman",
+  profile: "/png/profile.jpeg",
+  designation: "AI/ML Engineer | Flutter Developer",
+  skills: [
+  'Python',
+  'Machine Learning',
+  'TensorFlow',
+  'PyTorch',
+  'scikit-learn',
+  'Pandas',
+  'NumPy',
+  'OpenCV',
+  'MediaPipe',
+  'TensorFlow Lite',
+  'Flutter',
+  'Dart',
+  'FastAPI',
+  'Supabase',
+  'Firebase',
+  'Git'
+  ],
+  description:
+    "My name is Zille Rehman. I am an AI/ML and Flutter Developer focused on building practical intelligent applications. I work primarily with Python and machine learning for predictive models, computer vision systems, and AI-powered solutions, while using Flutter and Dart to turn these models into real-world mobile applications. My experience includes machine learning, deep learning, computer vision, TensorFlow, scikit-learn, OpenCV, MediaPipe, TensorFlow Lite, Flutter development, FastAPI, and Supabase. I enjoy working across the full development process from data preprocessing and model development to deployment and user-facing applications. I am continuously growing in AI engineering, machine learning, generative AI, and intelligent application development while building practical projects that solve real-world problems.",
+  email: "zillerehman004@gmail.com",
+  phone: "+923254927030",
+  address: "Sargodha, Punjab, Pakistan",
+  github: "https://github.com/zillerehman-dev",
+  facebook: "",
+  linkedIn: "https://www.linkedin.com/in/zillerehman05/",
+  kaggle: "https://www.kaggle.com/zillerehman2005",
+  stackOverflow: "",
+  leetcode: "",
+  devUsername: "zillerehman-dev",
+  resume:
+    "https://drive.google.com/file/d/1ihBEieSpcks1ZQZzUPioEp5xrIqYMKlr/view?usp=sharing",
+};
